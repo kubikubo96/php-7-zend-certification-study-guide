@@ -8,4 +8,4 @@
 
 ECHO "Hello World"; // hoạt động
 $variable = "Hello World";
-echo $VARIABLE; // lỗi
+//echo $VARIABLE; //@TODO lỗi Undefined variable: VARIABLE
